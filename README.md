@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KakhramonUktamov
 - 👀 I’m interested in Data Science, Machine Learning and Data Analysis
-- 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on Data Science team
 - 📫 How to reach me: @KakhramonUktamov 
 
