@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @KakhramonUktamov
+- 💻 I work at KSGroup in Uzbekistan
 - 👀 I’m interested in Data Science
 - 📫 How to reach me: @KakhramonUktamov 
 
